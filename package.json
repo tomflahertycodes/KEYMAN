@@ -6,8 +6,13 @@
     "@rails/activestorage": "^6.0.0",
     "@rails/ujs": "^6.0.0",
     "@rails/webpacker": "4.3.0",
+<<<<<<< HEAD
     "turbolinks": "^5.2.0",
     "webpack": "^5.65.0"
+=======
+    "bootstrap": "4.6",
+    "turbolinks": "^5.2.0"
+>>>>>>> 3402061187bd60d3a95e9a3cf1cbcb3061c8e1f3
   },
   "version": "0.1.0",
   "devDependencies": {
